@@ -1,0 +1,15 @@
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\bin\Debug\net6.0\zadacha29.exe
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\bin\Debug\net6.0\zadacha29.deps.json
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\bin\Debug\net6.0\zadacha29.runtimeconfig.json
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\bin\Debug\net6.0\zadacha29.dll
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\bin\Debug\net6.0\zadacha29.pdb
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\obj\Debug\net6.0\zadacha29.csproj.AssemblyReference.cache
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\obj\Debug\net6.0\zadacha29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\obj\Debug\net6.0\zadacha29.AssemblyInfoInputs.cache
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\obj\Debug\net6.0\zadacha29.AssemblyInfo.cs
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\obj\Debug\net6.0\zadacha29.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\obj\Debug\net6.0\zadacha29.dll
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\obj\Debug\net6.0\refint\zadacha29.dll
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\obj\Debug\net6.0\zadacha29.pdb
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\obj\Debug\net6.0\zadacha29.genruntimeconfig.cache
+C:\Users\Алексей Киньшин\Documents\seminar1\HW4\zadacha29\obj\Debug\net6.0\ref\zadacha29.dll
